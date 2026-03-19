@@ -37,9 +37,8 @@ PROCEDURE:
 CIRCUIT DIAGRAMS
 
 Half wave rectifier without filter:
-![image](https://github.com/user-attachments/assets/8b9bd9ae-2563-42ac-b053-efe156625836)
-![image](https://github.com/user-attachments/assets/ba782adb-9740-42c4-b072-1cf72cb3eea0)
-
+![image](https://github.com/MUTTHU10/EXP-4/blob/main/WhatsApp%20Image%202026-03-19%20at%2018.19.30.jpeg?raw=true)
+![image](https://github.com/MUTTHU10/EXP-4/blob/main/Screenshot%202026-03-19%20154534.png?raw=true)
 Fullwave rectifier without filter:
 ![WhatsApp Image 2026-03-19 at 18 19 32 (1)](https://github.com/user-attachments/assets/9fabf1f9-ed37-42b2-838c-46197d6ef5f6)
 ![WhatsApp Image 2026-03-19 at 18 19 32 (1)](https://github.com/user-attachments/assets/8b88c9bd-e624-4052-877a-1e891c7af7d3)
